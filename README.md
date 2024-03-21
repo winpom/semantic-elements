@@ -1,6 +1,8 @@
 # Horiseon - Digital Marketing Solutions
 
-Welcome to the Horiseon website! We offer digital marketing solutions for businesses looking to enhance their online presence and reach their target audience effectively.
+## Description
+
+The new and improved Horiseon website, now with optimized code. Previously, the CSS and HTML of this site was redudant, inefficient, and used outdated terms and elements that would weaken its position within search engine results. Now, with this improvement, these issues should be largely resolved, resulting in a site that runs more efficiently, will show better in SEO, and is significantly easier for future coders to work on.
 
 ## Table of Contents
 
@@ -10,16 +12,6 @@ Welcome to the Horiseon website! We offer digital marketing solutions for busine
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Introduction
-
-Horiseon provides comprehensive digital marketing services tailored to meet the unique needs of your business. Our solutions cover various aspects of online marketing, including search engine optimization (SEO), online reputation management, and social media marketing.
-
-## Features
-
-- **Search Engine Optimization (SEO):** Improve your website's visibility on search engines and attract the right audience to your business.
-- **Online Reputation Management:** Take control of your online reputation and manage what potential customers see when they search for your business.
-- **Social Media Marketing:** Harness the power of social media platforms to engage with your audience, build brand awareness, and drive leads.
 
 ## Installation
 
