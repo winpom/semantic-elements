@@ -23,11 +23,11 @@ To view the Horiseon website locally on your machine, follow these steps:
 
 ## Usage
 
-Once the website is loaded in your browser, you can navigate through the various sections using the navigation menu. Each section provides valuable information about our digital marketing services, including detailed descriptions and accompanying images.
+To use the site, begin by opening the URL in your browser: https://winpom.github.io/semantic-elements/. You can navigate through the various sections using the navigation menu at the top. Each section provides valuable information about Horiseon's digital marketing services, including detailed descriptions and accompanying images.
 
 ## Contributing
 
-Contributions to the Horiseon website are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request. We appreciate your feedback and contributions to making our website even better.
+Contributions to the Horiseon website are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request within GitHub. We appreciate your feedback.
 
 ## License
 
